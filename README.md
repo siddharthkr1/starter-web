@@ -8,3 +8,8 @@ Sample website with plenty of files for demos
 
 ##devops training
 ##some more text here
+
+##Git comparison
+new lecture
+
+##compare repository with working directory
