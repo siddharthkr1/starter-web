@@ -14,3 +14,4 @@ new lecture
 
 ##compare repository with working directory
 git auto merge lecture
+stash lecture now
