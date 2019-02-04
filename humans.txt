@@ -1,6 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-
+adding new text for git stash pop lecture
 # TEAM
 
     Sid -- Data Analyst -- <twitter>
